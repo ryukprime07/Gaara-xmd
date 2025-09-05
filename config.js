@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~GgIzHKpB#2PwVb_Y5Q5zJLZeJ_hzC99eD-5e0LbF8Nex2fi17xFE",
+SESSION_ID: process.env.SESSION_ID || "GAARA~XMD~mtwGnBhb#vwLWmglGO4RjqlzNAOLZXXuzURuQEHaRV-LBLbKqrvtheEGALODON-MDEGALODON-MD",
 // add your Session Id 
 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
@@ -19,7 +19,7 @@ AUTO_STICKER: process.env.AUTO_STICKER || "true",
  //make true if you want auto sticker   
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY MEGALODON-MD 🤍*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY GAARA-XMD 🤍*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
