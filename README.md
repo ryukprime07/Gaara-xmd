@@ -1,13 +1,8 @@
 <h1 align="center">⚡ GAARA-XMD ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=65&pause=1000&color=FF4C29&center=true&vCenter=true&width=1000&height=120&lines=GAARA-XMD;ADVANCED+WHATSAPP+BOT;BY+GAARATECH" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-<a href="https://github.com/gaaratech01-rgb/Gaara-xmd/fork">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=65&pause=1000&color=FF4C29&center=true&vCenter=true&width=1000&height=120&lines=GAARA-XMD;ADVANCED+WHATSAPP+BOT;BY+GAARATECH" alt="Typing SVG" /gaarate">
+<a href="https://github.com/GaaraTech/Gaara-xmd/fork">
   <img src="https://img.shields.io/badge/🍴 Fork%20This%20Repo-FF4C29?style=for-the-badge&logo=git&logoColor=white" />
 </a>
 <a href="https://github.com/gaaratech01-rgb/Gaaraxmd/stargazers/">
